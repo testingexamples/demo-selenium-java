@@ -6,7 +6,7 @@ description: Use when asked to run, explain, or extend the demo-selenium-java lo
 # Demo Selenium Java Skill
 
 This repo teaches five Selenium locator strategies and four form
-interactions against the public page https://testingexamples.github.io,
+interactions against the public page https://testingexamples.github.io/en-001/practice/,
 in Java.
 
 Locator strategies, form interactions, and the exact calls used are listed

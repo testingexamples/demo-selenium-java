@@ -28,7 +28,7 @@ public class Demo {
         WebDriver driver = new ChromeDriver(options);
 
         try {
-            driver.get("https://testingexamples.github.io");
+            driver.get("https://testingexamples.github.io/en-001/practice/");
 
             // Selenium does not auto-wait, so wait explicitly for the page content.
             WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
